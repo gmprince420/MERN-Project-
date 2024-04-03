@@ -1,0 +1,12 @@
+.main {
+ text-align: center;
+ margin: 30px;
+}
+h3 {
+  color: rgb(39, 121, 2);
+}
+
+span {
+  color: #5a5a5a;
+  font-family: monospace;
+}
